@@ -9,6 +9,7 @@ const InputStyled = styled.input`
     color: #0308a3;
     padding: 0 10px;
     display: flex;
+    flex-direction: column;
     
 `;
 

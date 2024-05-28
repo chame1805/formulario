@@ -10,6 +10,7 @@ const ButtonStyled = styled.button`
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     display: flex;
     flex-direction: column;
+    margin-left: 20px;
     &:hover {
         background-color: #5257de;
     }
